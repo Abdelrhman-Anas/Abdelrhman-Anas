@@ -15,6 +15,8 @@ I 'm currently working on web development <br>I still a junior in this field <br
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdelrhman-Anas&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![FreePalestine.Dev](https://freepalestine.dev/badge?t=d&u=0&r=1)](https://freepalestine.dev)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
